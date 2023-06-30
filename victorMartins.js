@@ -1,6 +1,9 @@
-const nome = 'Victor';
-const sobrenome = 'Martins';
+let pessoa = {
+    nome: "Victor Martins",
+    idade: 18,
+    habilidade: "broxar",
+}
 
-const nomeCompleto = nome + " " + sobrenome;
-
-console.log(nomeCompleto);
+for (let chave in pessoa) {
+    console.log(chave, pessoa[chave])
+}
