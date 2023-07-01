@@ -1,2 +1,2 @@
 console.log("consegui");
-console.log(paçoca);
+console.log("paçoca");
