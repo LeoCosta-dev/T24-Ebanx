@@ -1,6 +1,6 @@
 var victor = "Maluco"
 
-function exibe(){
+function mestreSabe(){
 
 if (victor.length === 6){
 
@@ -8,7 +8,7 @@ if (victor.length === 6){
 
 }else {
 
-    alert("Feeda de shaco")
+    alert("Feeda de shaco, feliz da vida")
 }
 
 
